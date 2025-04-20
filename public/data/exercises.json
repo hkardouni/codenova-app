@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Exercise 1: Print Message",
+      "description": "Write a Python program that prints 'Hello CodeNova!'.",
+      "starterCode": "print(\"Hello CodeNova!\")",
+      "expectedOutput": "Hello CodeNova!",
+      "tutorial": "In Python, use print() to output text. Example: print('Hello World!')"
+    },
+    {
+      "id": 2,
+      "title": "Exercise 2: Variables and Addition",
+      "description": "Create two variables a and b with values 3 and 5, and print their sum.",
+      "starterCode": "a = 3\nb = 5\nprint(a + b)",
+      "expectedOutput": "8",
+      "tutorial": "Variables store values. You can use + to add them."
+    },
+    {
+      "id": 3,
+      "title": "Exercise 3: Conditional Logic",
+      "description": "Write a program that checks if a number is greater than 10 and prints 'Big' or 'Small'.",
+      "starterCode": "num = 12\nif num > 10:\n    print(\"Big\")\nelse:\n    print(\"Small\")",
+      "expectedOutput": "Big",
+      "tutorial": "Use if...else to make decisions in code."
+    }
+  ]
+  
