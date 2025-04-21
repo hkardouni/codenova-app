@@ -21,7 +21,6 @@ export default function CodeExercise() {
   const [completed, setCompleted] = useState(false);
   const [loading, setLoading] = useState(false);
 
-  // Load exercises and saved progress
   useEffect(() => {
     fetch('/data/exercises.json')
       .then(res => res.json())

@@ -1,0 +1,26 @@
+[
+    {
+      "id": "python-basics",
+      "title": "🐍 Python Basics",
+      "description": "Learn the fundamentals of Python programming with hands-on exercises.",
+      "link": "/python-exercise"
+    },
+    {
+      "id": "python-projects",
+      "title": "🛠️ Python Mini Projects",
+      "description": "Build small Python apps to apply what you’ve learned.",
+      "link": "#"
+    },
+    {
+      "id": "frontend-basics",
+      "title": "🌐 Frontend Basics (HTML/CSS/JS)",
+      "description": "Start your frontend journey with HTML, CSS, and JavaScript.",
+      "link": "#"
+    },
+    {
+      "id": "react-basics",
+      "title": "⚛️ React Basics",
+      "description": "Get started with components, props, and state in React.",
+      "link": "#"
+    }
+  ]
