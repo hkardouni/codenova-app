@@ -32,7 +32,7 @@ export default function LearnPage() {
                   <Button disabled variant="secondary">Coming Soon</Button>
                 ) : (
                   <Link href={path.link}>
-                    <Button>Start Learning</Button>
+                    <Button className='cursor-pointer'>Start Learning</Button>
                   </Link>
                 )}
               </div>
